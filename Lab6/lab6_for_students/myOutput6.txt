@@ -1,0 +1,51 @@
+Welcome to the Lab 6!
+There are 3 required tasks
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 4: Implement Implement Print Horizontal Flip 2D Array!
+Enter the row and column of the matrix: Enter the elements of the matrix: 
+The horizontally flipped array is:
+   1   2   4   9
+   4   3   5   1
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 4: Implement Implement Print Horizontal Flip 2D Array!
+Enter the row and column of the matrix: Enter the elements of the matrix: 
+The horizontally flipped array is:
+   1
+   5
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 4: Implement Implement Print Horizontal Flip 2D Array!
+Enter the row and column of the matrix: Enter the elements of the matrix: 
+The horizontally flipped array is:
+   4   2
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 4: Implement Implement Print Horizontal Flip 2D Array!
+Enter the row and column of the matrix: Enter the elements of the matrix: 
+The horizontally flipped array is:
+   1
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Bye!

@@ -1,0 +1,2 @@
+Welcome to the exciting, fun, and awesome programming world! Enter an even number, and I can tell something about you! 
+You must be very excited! Me too! :)

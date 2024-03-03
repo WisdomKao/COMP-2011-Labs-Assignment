@@ -1,0 +1,46 @@
+Welcome to the Lab 6!
+There are 3 required tasks
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 1: Implement Matrix Transpose function!!
+Enter the row and column of the matrix: Enter the elements of the matrix: 
+The transpose of the matrix is: 
+   1   3
+   2   4
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 2: Implement Matrix Addition function!
+Enter the row and column of the matrix A: 
+Enter the elements of the matrix: 
+Enter the row and column of the matrix B: Enter the elements of the matrix: 
+The sum of the matrix A and matrix B is: 
+   0   0
+   0   0
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Task 3: Implement Matrix Multiplication function!
+Enter the row and column of the matrix A: 
+Enter the elements of the matrix: 
+Enter the row and column of the matrix B: Enter the elements of the matrix: 
+The product of the matrix A and B is: 
+  25  64
+  73 152
+===========================================================
+Task 1: Implement Matrix Transpose function!
+Task 2: Implement Matrix Addition function!
+Task 3: Implement Matrix Multiplication function!
+Task 4: Implement Print Out the 2D Array in a horizontally flipped way function!
+
+Select the task (Enter 1, 2, 3 or 4) or Enter -1 to quit (Other invalid value will be ignored.): Bye!
